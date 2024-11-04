@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DATA SCIENCE/ANALYTICS
 - 📫 How to reach me www.linkedin.com/in/anuoluwa-badmus
 - 😄 Pronouns: HER
-- ⚡ Fun fact: Movie freak
+- ⚡ Fun fact: Movie freak/Book lover 
 
 <!---
 DEBORAH-BADMUS/DEBORAH-BADMUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
